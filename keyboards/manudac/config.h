@@ -251,4 +251,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define LEADER_PER_KEY_TIMING
 #define LEADER_TIMEOUT 250
 
-#define IGNORE_MOD_TAP_INTERRUPT
+#define TAPPING_TERM 0
+#define RETRO_TAPPING
